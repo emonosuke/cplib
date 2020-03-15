@@ -6,9 +6,6 @@ using ll = long long;
 
 const ll MOD = 1000000007;
 
-const int dx[4] = {+1, 0, -1, 0};
-const int dy[4] = {0, -1, 0, +1};
-
 class Graph{
     public:
     using PL = pair<ll, ll>;
